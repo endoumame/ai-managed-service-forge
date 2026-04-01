@@ -1,0 +1,73 @@
+[
+  {
+    "invoiceId": "INV-2026-001",
+    "vendorName": "株式会社テックコンサル",
+    "vendorRegistrationNumber": "T1234567890123",
+    "invoiceDate": "2026-03-31",
+    "dueDate": "2026-04-30",
+    "items": [
+      {
+        "description": "システムコンサルティング費用 3月分",
+        "quantity": 1,
+        "unitPrice": 500000,
+        "amount": 500000,
+        "taxRate": 0.1
+      },
+      {
+        "description": "開発支援費用 3月分",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "amount": 300000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotalAmount": 800000,
+    "taxAmount": 80000,
+    "totalAmount": 880000
+  },
+  {
+    "invoiceId": "INV-2026-002",
+    "vendorName": "オフィスサプライ株式会社",
+    "vendorRegistrationNumber": "T9876543210987",
+    "invoiceDate": "2026-03-28",
+    "dueDate": "2026-04-28",
+    "items": [
+      {
+        "description": "コピー用紙 A4 5000枚",
+        "quantity": 10,
+        "unitPrice": 3500,
+        "amount": 35000,
+        "taxRate": 0.1
+      },
+      {
+        "description": "文房具セット",
+        "quantity": 5,
+        "unitPrice": 2000,
+        "amount": 10000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotalAmount": 45000,
+    "taxAmount": 4500,
+    "totalAmount": 49500
+  },
+  {
+    "invoiceId": "INV-2026-003",
+    "vendorName": "株式会社テックコンサル",
+    "vendorRegistrationNumber": "T1234567890123",
+    "invoiceDate": "2026-03-15",
+    "dueDate": "2026-04-15",
+    "items": [
+      {
+        "description": "システムコンサルティング費用 2月分",
+        "quantity": 1,
+        "unitPrice": 500000,
+        "amount": 500000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotalAmount": 500000,
+    "taxAmount": 50000,
+    "totalAmount": 550000
+  }
+]
