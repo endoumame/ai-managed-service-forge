@@ -26,6 +26,9 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - name: textlint
+        run: pnpm textlint "**/*.md"
+
       - name: secretlint
         run: pnpm secretlint
 
