@@ -1,0 +1,65 @@
+[
+  {
+    "id": "INV-001",
+    "vendor": "株式会社クラウドテック",
+    "invoiceNumber": "CT-2026-0401",
+    "date": "2026-04-01",
+    "items": [
+      {
+        "description": "AWS利用料（3月分）",
+        "quantity": 1,
+        "unitPrice": 85000,
+        "taxRate": 0.1
+      },
+      {
+        "description": "サーバー監視サービス",
+        "quantity": 1,
+        "unitPrice": 15000,
+        "taxRate": 0.1
+      }
+    ],
+    "totalAmount": 110000,
+    "taxAmount": 10000,
+    "notes": "月額クラウドインフラ費用"
+  },
+  {
+    "id": "INV-002",
+    "vendor": "オフィスサプライ合同会社",
+    "invoiceNumber": "OS-20260315",
+    "date": "2026-03-15",
+    "items": [
+      {
+        "description": "コピー用紙 A4 5000枚",
+        "quantity": 10,
+        "unitPrice": 3500,
+        "taxRate": 0.1
+      },
+      {
+        "description": "トナーカートリッジ",
+        "quantity": 2,
+        "unitPrice": 12000,
+        "taxRate": 0.1
+      }
+    ],
+    "totalAmount": 59000,
+    "taxAmount": 5900,
+    "notes": ""
+  },
+  {
+    "id": "INV-003",
+    "vendor": "グローバルマーケティング株式会社",
+    "invoiceNumber": "GM-2026-Q1",
+    "date": "2026-03-31",
+    "items": [
+      {
+        "description": "Web広告運用代行（1-3月）",
+        "quantity": 1,
+        "unitPrice": 1500000,
+        "taxRate": 0.1
+      }
+    ],
+    "totalAmount": 1650000,
+    "taxAmount": 150000,
+    "notes": "高額案件 - 部長承認必要"
+  }
+]
