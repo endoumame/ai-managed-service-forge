@@ -10,6 +10,9 @@ pre-commit:
     - name: oxfmt-check
       run: pnpm format:check
 
+    - name: textlint
+      run: pnpm textlint "**/*.md"
+
     - name: test
       run: pnpm test
 
