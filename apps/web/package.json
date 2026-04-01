@@ -1,0 +1,29 @@
+{
+  "name": "@my-app/web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run --passWithNoTests",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "@my-app/api": "workspace:*",
+    "hono": "^4.12.9",
+    "vue": "^3.5.31",
+    "vue-router": "^5.0.4"
+  },
+  "devDependencies": {
+    "@unocss/reset": "^66.6.7",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "typescript": "^6.0.2",
+    "unocss": "^66.6.7",
+    "vite": "^8.0.3",
+    "vitest": "^4.1.1",
+    "vue-tsc": "^3.2.6",
+    "wrangler": "^4.77.0"
+  }
+}

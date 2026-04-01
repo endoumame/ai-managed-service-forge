@@ -1,0 +1,17 @@
+pre-commit:
+  parallel: true
+  jobs:
+    - name: secretlint
+      run: pnpm secretlint
+
+    - name: oxlint
+      run: pnpm lint
+
+    - name: oxfmt-check
+      run: pnpm format:check
+
+    - name: test
+      run: pnpm test
+
+    - name: typecheck
+      run: pnpm typecheck
