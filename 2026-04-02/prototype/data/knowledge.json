@@ -1,0 +1,20 @@
+[
+  {
+    "vendor": "株式会社オフィスサプライ",
+    "itemPattern": "コピー用紙",
+    "accountCode": "5300",
+    "accountName": "消耗品費",
+    "confidence": 0.9,
+    "usageCount": 5,
+    "lastUsed": "2026-03-25T10:00:00.000Z"
+  },
+  {
+    "vendor": "株式会社オフィスサプライ",
+    "itemPattern": "トナーカートリッジ",
+    "accountCode": "5300",
+    "accountName": "消耗品費",
+    "confidence": 0.85,
+    "usageCount": 3,
+    "lastUsed": "2026-03-20T10:00:00.000Z"
+  }
+]
