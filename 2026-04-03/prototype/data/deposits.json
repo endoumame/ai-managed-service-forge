@@ -1,0 +1,44 @@
+[
+  {
+    "id": "DEP-001",
+    "date": "2026-03-31",
+    "payerName": "カ）タナカショウテン",
+    "amount": 110000,
+    "description": "3月分支払い"
+  },
+  {
+    "id": "DEP-002",
+    "date": "2026-03-31",
+    "payerName": "スズキデンキ（カ",
+    "amount": 55000,
+    "description": "請求書INV-2026-042"
+  },
+  {
+    "id": "DEP-003",
+    "date": "2026-03-31",
+    "payerName": "サトウブッサン",
+    "amount": 329670,
+    "description": "3月分"
+  },
+  {
+    "id": "DEP-004",
+    "date": "2026-03-31",
+    "payerName": "ヤマダコウギョウ",
+    "amount": 220000,
+    "description": "INV-2026-038"
+  },
+  {
+    "id": "DEP-005",
+    "date": "2026-03-31",
+    "payerName": "ミヤケジドウシャ",
+    "amount": 88000,
+    "description": "部品代"
+  },
+  {
+    "id": "DEP-006",
+    "date": "2026-03-31",
+    "payerName": "フジモトショウジ",
+    "amount": 165000,
+    "description": "2月・3月分合計"
+  }
+]

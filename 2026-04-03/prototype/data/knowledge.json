@@ -1,0 +1,18 @@
+[
+  {
+    "payerNamePattern": "カ）タナカショウテン",
+    "clientCode": "C001",
+    "clientName": "株式会社田中商店",
+    "usageCount": 5,
+    "isPromoted": true,
+    "lastUsedDate": "2026-03-28"
+  },
+  {
+    "payerNamePattern": "ヤマダコウギョウ",
+    "clientCode": "C003",
+    "clientName": "山田工業株式会社",
+    "usageCount": 2,
+    "isPromoted": false,
+    "lastUsedDate": "2026-03-15"
+  }
+]

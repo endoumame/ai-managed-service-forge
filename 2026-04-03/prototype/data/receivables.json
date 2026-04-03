@@ -1,0 +1,62 @@
+[
+  {
+    "id": "RCV-001",
+    "invoiceNumber": "INV-2026-035",
+    "clientName": "株式会社田中商店",
+    "clientCode": "C001",
+    "amountWithTax": 110000,
+    "amountWithoutTax": 100000,
+    "invoiceDate": "2026-03-01",
+    "dueDate": "2026-03-31"
+  },
+  {
+    "id": "RCV-002",
+    "invoiceNumber": "INV-2026-042",
+    "clientName": "鈴木電機株式会社",
+    "clientCode": "C002",
+    "amountWithTax": 55000,
+    "amountWithoutTax": 50000,
+    "invoiceDate": "2026-03-05",
+    "dueDate": "2026-03-31"
+  },
+  {
+    "id": "RCV-003",
+    "invoiceNumber": "INV-2026-044",
+    "clientName": "佐藤物産株式会社",
+    "clientCode": "C004",
+    "amountWithTax": 330000,
+    "amountWithoutTax": 300000,
+    "invoiceDate": "2026-03-10",
+    "dueDate": "2026-04-10"
+  },
+  {
+    "id": "RCV-004",
+    "invoiceNumber": "INV-2026-038",
+    "clientName": "山田工業株式会社",
+    "clientCode": "C003",
+    "amountWithTax": 220000,
+    "amountWithoutTax": 200000,
+    "invoiceDate": "2026-03-01",
+    "dueDate": "2026-03-31"
+  },
+  {
+    "id": "RCV-005",
+    "invoiceNumber": "INV-2026-050",
+    "clientName": "三宅自動車部品株式会社",
+    "clientCode": "C005",
+    "amountWithTax": 88000,
+    "amountWithoutTax": 80000,
+    "invoiceDate": "2026-03-15",
+    "dueDate": "2026-04-15"
+  },
+  {
+    "id": "RCV-006",
+    "invoiceNumber": "INV-2026-028",
+    "clientName": "藤本商事株式会社",
+    "clientCode": "C006",
+    "amountWithTax": 165000,
+    "amountWithoutTax": 150000,
+    "invoiceDate": "2026-02-20",
+    "dueDate": "2026-03-20"
+  }
+]
