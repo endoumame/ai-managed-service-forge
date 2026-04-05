@@ -1,0 +1,63 @@
+[
+  {
+    "vendorName": "株式会社ABC商事",
+    "invoiceNumber": "INV-2026-0401",
+    "invoiceDate": "2026-04-01",
+    "subtotalAmount": 100000,
+    "taxRate": 0.1,
+    "taxAmount": 10000,
+    "totalAmount": 110000,
+    "lineItems": [
+      {
+        "description": "コピー用紙 A4 500枚×10",
+        "quantity": 10,
+        "unitPrice": 5000,
+        "amount": 50000
+      },
+      { "description": "文具セット", "quantity": 20, "unitPrice": 2500, "amount": 50000 }
+    ],
+    "confidence": 0.95
+  },
+  {
+    "vendorName": "テックサービス株式会社",
+    "invoiceNumber": "TS-20260401-001",
+    "invoiceDate": "2026-04-01",
+    "subtotalAmount": 500000,
+    "taxRate": 0.1,
+    "taxAmount": 50000,
+    "totalAmount": 550000,
+    "lineItems": [
+      {
+        "description": "サーバ運用保守 4月分",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "amount": 300000
+      },
+      {
+        "description": "クラウドインフラ利用料 4月分",
+        "quantity": 1,
+        "unitPrice": 200000,
+        "amount": 200000
+      }
+    ],
+    "confidence": 0.92
+  },
+  {
+    "vendorName": "株式会社デザインラボ",
+    "invoiceNumber": "DL-2026-042",
+    "invoiceDate": "2026-04-05",
+    "subtotalAmount": 250000,
+    "taxRate": 0.1,
+    "taxAmount": 25000,
+    "totalAmount": 275000,
+    "lineItems": [
+      {
+        "description": "広告バナーデザイン制作",
+        "quantity": 5,
+        "unitPrice": 50000,
+        "amount": 250000
+      }
+    ],
+    "confidence": 0.88
+  }
+]
