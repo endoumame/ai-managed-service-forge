@@ -1,0 +1,36 @@
+{
+  "vendorMappings": [
+    {
+      "vendorName": "株式会社サクラオフィス",
+      "itemPattern": "コピー用紙",
+      "accountCode": "630",
+      "accountName": "消耗品費",
+      "correctionCount": 0,
+      "lastUsed": "2026-03-15"
+    },
+    {
+      "vendorName": "東京クラウドサービス株式会社",
+      "itemPattern": "クラウドサーバー利用料",
+      "accountCode": "540",
+      "accountName": "通信費",
+      "correctionCount": 0,
+      "lastUsed": "2026-03-20"
+    },
+    {
+      "vendorName": "株式会社ビジネスコンサル",
+      "itemPattern": "経営コンサルティング",
+      "accountCode": "620",
+      "accountName": "支払手数料",
+      "correctionCount": 0,
+      "lastUsed": "2026-03-25"
+    },
+    {
+      "vendorName": "全日本配送株式会社",
+      "itemPattern": "配送料",
+      "accountCode": "640",
+      "accountName": "荷造運賃",
+      "correctionCount": 1,
+      "lastUsed": "2026-04-01"
+    }
+  ]
+}
