@@ -1,0 +1,19 @@
+{
+  "name": "invoice-pilot-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "InvoicePilot: AI-managed invoice processing service prototype",
+  "type": "module",
+  "scripts": {
+    "demo": "tsx demo/run.ts",
+    "demo:mock": "MOCK_AI=true tsx demo/run.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}
