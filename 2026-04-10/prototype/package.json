@@ -1,0 +1,15 @@
+{
+  "name": "invoice-guard-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "InvoiceGuard - 請求書自動仕訳・異常検知 AIマネージドサービス プロトタイプ",
+  "type": "module",
+  "scripts": {
+    "demo": "npx tsx demo/run.ts",
+    "demo:mock": "MOCK_AI=true npx tsx demo/run.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "tsx": "^4.19.0"
+  }
+}
