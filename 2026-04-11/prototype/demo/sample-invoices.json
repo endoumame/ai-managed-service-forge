@@ -1,0 +1,84 @@
+[
+  {
+    "id": "INV-2026-001",
+    "vendorName": "株式会社ACME",
+    "invoiceDate": "2026-04-01",
+    "dueDate": "2026-04-30",
+    "lineItems": [
+      {
+        "description": "コピー用紙",
+        "quantity": 10,
+        "unitPrice": 500,
+        "taxRate": 0.1,
+        "amount": 5000
+      },
+      {
+        "description": "ボールペン",
+        "quantity": 50,
+        "unitPrice": 100,
+        "taxRate": 0.1,
+        "amount": 5000
+      }
+    ],
+    "subtotal": 10000,
+    "taxAmount": 1000,
+    "totalAmount": 11000,
+    "notes": "月次定期発注"
+  },
+  {
+    "id": "INV-2026-002",
+    "vendorName": "株式会社ACME",
+    "invoiceDate": "2026-04-05",
+    "dueDate": "2026-05-05",
+    "lineItems": [
+      {
+        "description": "クラウドライセンス",
+        "quantity": 5,
+        "unitPrice": 3000,
+        "taxRate": 0.1,
+        "amount": 15000
+      }
+    ],
+    "subtotal": 15000,
+    "taxAmount": 1500,
+    "totalAmount": 16500,
+    "notes": "SaaS年間ライセンス"
+  },
+  {
+    "id": "INV-2026-003",
+    "vendorName": "テスト商事株式会社",
+    "invoiceDate": "2026-04-10",
+    "dueDate": "2026-05-10",
+    "lineItems": [
+      {
+        "description": "コンサルティング報酬",
+        "quantity": 1,
+        "unitPrice": 500000,
+        "taxRate": 0.1,
+        "amount": 500000
+      }
+    ],
+    "subtotal": 500000,
+    "taxAmount": 50000,
+    "totalAmount": 550000
+  },
+  {
+    "id": "INV-2026-004",
+    "vendorName": "未知の取引先株式会社",
+    "invoiceDate": "2026-04-10",
+    "dueDate": "2026-05-31",
+    "lineItems": [
+      {
+        "description": "特殊部品加工",
+        "quantity": 1,
+        "unitPrice": 80000,
+        "taxRate": 0.1,
+        "amount": 80000
+      }
+    ],
+    "subtotal": 80000,
+    "taxAmount": 8000,
+    "totalAmount": 88000,
+    "notes": "初回取引"
+  }
+]

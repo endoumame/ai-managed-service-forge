@@ -1,0 +1,17 @@
+{
+  "name": "invoice-forge-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "tsx demo/run.ts",
+    "demo:mock": "INVOICE_FORGE_MOCK=true tsx demo/run.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}
