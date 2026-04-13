@@ -1,0 +1,20 @@
+{
+  "name": "invoice-forge-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "InvoiceForge — AI Managed Service prototype for automated invoice journal entry",
+  "type": "module",
+  "scripts": {
+    "demo": "tsx demo/run.ts",
+    "demo:mock": "MOCK_AI=true tsx demo/run.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

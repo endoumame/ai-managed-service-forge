@@ -1,0 +1,11 @@
+{
+  "テックサービス株式会社": {
+    "accountFrequency": {
+      "2140": 1,
+      "6110": 1
+    },
+    "lastUsedAccounts": ["6110", "2140"],
+    "processedCount": 1,
+    "vendor": "テックサービス株式会社"
+  }
+}
