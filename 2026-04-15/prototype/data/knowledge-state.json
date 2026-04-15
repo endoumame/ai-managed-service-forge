@@ -1,0 +1,24 @@
+{
+  "corrections": [],
+  "patterns": [
+    {
+      "accountCode": "6100",
+      "accountName": "消耗品費",
+      "frequency": 12,
+      "itemKeyword": "コピー用紙",
+      "lastUsed": "2026-03-15",
+      "source": "initial",
+      "vendor": "株式会社オフィスサプライ"
+    },
+    {
+      "accountCode": "6200",
+      "accountName": "通信費",
+      "frequency": 8,
+      "itemKeyword": "AWS",
+      "lastUsed": "2026-03-20",
+      "source": "initial",
+      "vendor": "クラウドテック株式会社"
+    }
+  ],
+  "proposals": []
+}

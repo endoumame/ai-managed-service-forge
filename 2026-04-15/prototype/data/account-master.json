@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    { "code": "6100", "name": "消耗品費", "description": "事務用品、消耗品の購入" },
+    { "code": "6200", "name": "通信費", "description": "電話、インターネット、サーバー利用料" },
+    { "code": "6210", "name": "支払手数料", "description": "銀行手数料、各種手数料" },
+    { "code": "6300", "name": "外注費", "description": "業務委託、外部デザイン・開発" },
+    { "code": "6400", "name": "広告宣伝費", "description": "広告、マーケティング関連" },
+    { "code": "6500", "name": "交際費", "description": "接待、懇親会、贈答" },
+    { "code": "6600", "name": "旅費交通費", "description": "出張、交通費" },
+    { "code": "6700", "name": "賃借料", "description": "オフィス賃料、リース料" },
+    { "code": "6800", "name": "水道光熱費", "description": "電気、ガス、水道" },
+    { "code": "6900", "name": "保険料", "description": "各種保険" },
+    { "code": "7000", "name": "修繕費", "description": "設備・建物の修繕" },
+    { "code": "7100", "name": "備品費", "description": "什器備品の購入（10万円以上）" },
+    { "code": "7200", "name": "福利厚生費", "description": "従業員の福利厚生" },
+    { "code": "7300", "name": "研修費", "description": "社員教育、研修" },
+    { "code": "7400", "name": "租税公課", "description": "税金、公的費用" },
+    { "code": "7500", "name": "雑費", "description": "その他経費" }
+  ]
+}

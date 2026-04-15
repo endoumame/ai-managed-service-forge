@@ -1,0 +1,95 @@
+[
+  {
+    "id": "INV-2026-001",
+    "vendor": "株式会社オフィスサプライ",
+    "date": "2026-04-01",
+    "dueDate": "2026-04-30",
+    "items": [
+      { "description": "コピー用紙 A4 5000枚", "quantity": 10, "unitPrice": 3200, "taxRate": 0.1 },
+      { "description": "トナーカートリッジ 黒", "quantity": 2, "unitPrice": 8500, "taxRate": 0.1 }
+    ],
+    "subtotal": 49000,
+    "taxAmount": 4900,
+    "totalAmount": 53900,
+    "invoiceNumber": "T1234567890123"
+  },
+  {
+    "id": "INV-2026-002",
+    "vendor": "クラウドテック株式会社",
+    "date": "2026-04-05",
+    "dueDate": "2026-05-31",
+    "items": [
+      {
+        "description": "AWSインフラ利用料 3月分",
+        "quantity": 1,
+        "unitPrice": 150000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 150000,
+    "taxAmount": 15000,
+    "totalAmount": 165000,
+    "invoiceNumber": "T9876543210987"
+  },
+  {
+    "id": "INV-2026-003",
+    "vendor": "デザインワークス合同会社",
+    "date": "2026-04-10",
+    "dueDate": "2026-05-10",
+    "items": [
+      {
+        "description": "Webサイトリニューアル デザイン費",
+        "quantity": 1,
+        "unitPrice": 500000,
+        "taxRate": 0.1
+      },
+      { "description": "ロゴ制作費", "quantity": 1, "unitPrice": 200000, "taxRate": 0.1 }
+    ],
+    "subtotal": 700000,
+    "taxAmount": 70000,
+    "totalAmount": 770000,
+    "invoiceNumber": "T5555555555555"
+  },
+  {
+    "id": "INV-2026-004",
+    "vendor": "株式会社オフィスサプライ",
+    "date": "2026-04-12",
+    "dueDate": "2026-04-30",
+    "items": [
+      {
+        "description": "デスクチェア オフィス用",
+        "quantity": 5,
+        "unitPrice": 45000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 225000,
+    "taxAmount": 22500,
+    "totalAmount": 247500,
+    "invoiceNumber": "T1234567890123"
+  },
+  {
+    "id": "INV-2026-005",
+    "vendor": "フードデリバリー株式会社",
+    "date": "2026-04-14",
+    "dueDate": "2026-04-30",
+    "items": [
+      {
+        "description": "社内懇親会 ケータリング",
+        "quantity": 1,
+        "unitPrice": 85000,
+        "taxRate": 0.1
+      },
+      {
+        "description": "飲料（ソフトドリンク）",
+        "quantity": 1,
+        "unitPrice": 12000,
+        "taxRate": 0.08
+      }
+    ],
+    "subtotal": 97000,
+    "taxAmount": 9460,
+    "totalAmount": 106460,
+    "invoiceNumber": "T7777777777777"
+  }
+]
