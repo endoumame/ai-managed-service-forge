@@ -1,0 +1,17 @@
+{
+  "name": "depshield-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "npx tsx demo/run.ts",
+    "demo:mock": "DEPSHIELD_MOCK=true npx tsx demo/run.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}
