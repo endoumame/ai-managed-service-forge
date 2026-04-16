@@ -1,0 +1,32 @@
+{
+  "patterns": [
+    {
+      "vendorName": "株式会社テックコンサル",
+      "description": "システムコンサルティング費用 2月分",
+      "accountCode": "527",
+      "accountName": "外注費",
+      "usageCount": 3,
+      "lastUsedAt": "2026-03-01T00:00:00.000Z",
+      "approvedByHuman": true
+    }
+  ],
+  "corrections": [
+    {
+      "vendorName": "株式会社テックコンサル",
+      "description": "システムコンサルティング費用 1月分",
+      "originalAccountCode": "531",
+      "correctedAccountCode": "527",
+      "correctedAt": "2026-02-01T00:00:00.000Z",
+      "reason": "コンサルティングは外注費が適切"
+    },
+    {
+      "vendorName": "株式会社テックコンサル",
+      "description": "システムコンサルティング費用 1月分",
+      "originalAccountCode": "531",
+      "correctedAccountCode": "527",
+      "correctedAt": "2026-02-15T00:00:00.000Z",
+      "reason": "再度修正: 外注費に統一"
+    }
+  ],
+  "version": 1
+}
