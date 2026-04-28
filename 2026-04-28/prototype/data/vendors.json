@@ -1,0 +1,29 @@
+[
+  {
+    "vendorName": "株式会社サクラ印刷",
+    "aliases": ["サクラ印刷", "（株）サクラ印刷"],
+    "defaultAccountCode": "5800",
+    "defaultAccountName": "広告宣伝費",
+    "paymentTermDays": 30,
+    "lastUsed": "2026-03-15",
+    "correctionCount": 0
+  },
+  {
+    "vendorName": "東京電力エナジーパートナー",
+    "aliases": ["東京電力", "東電EP", "TEPCO"],
+    "defaultAccountCode": "5600",
+    "defaultAccountName": "水道光熱費",
+    "paymentTermDays": 30,
+    "lastUsed": "2026-03-28",
+    "correctionCount": 0
+  },
+  {
+    "vendorName": "NTTコミュニケーションズ",
+    "aliases": ["NTT Com", "NTTコム"],
+    "defaultAccountCode": "5300",
+    "defaultAccountName": "通信費",
+    "paymentTermDays": 30,
+    "lastUsed": "2026-03-20",
+    "correctionCount": 1
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "code": "5100", "name": "仕入高", "category": "expense", "taxApplicable": true },
+  { "code": "5200", "name": "外注費", "category": "expense", "taxApplicable": true },
+  { "code": "5300", "name": "通信費", "category": "expense", "taxApplicable": true },
+  { "code": "5400", "name": "消耗品費", "category": "expense", "taxApplicable": true },
+  { "code": "5500", "name": "地代家賃", "category": "expense", "taxApplicable": true },
+  { "code": "5600", "name": "水道光熱費", "category": "expense", "taxApplicable": true },
+  { "code": "5700", "name": "旅費交通費", "category": "expense", "taxApplicable": true },
+  { "code": "5800", "name": "広告宣伝費", "category": "expense", "taxApplicable": true },
+  { "code": "5900", "name": "支払手数料", "category": "expense", "taxApplicable": true },
+  { "code": "6000", "name": "雑費", "category": "expense", "taxApplicable": true },
+  { "code": "2100", "name": "買掛金", "category": "liability", "taxApplicable": false },
+  { "code": "2150", "name": "未払金", "category": "liability", "taxApplicable": false },
+  { "code": "1500", "name": "仮払消費税", "category": "asset", "taxApplicable": false }
+]
