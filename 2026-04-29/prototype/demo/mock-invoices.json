@@ -1,0 +1,105 @@
+[
+  {
+    "id": "INV-2026-0401",
+    "vendor": "株式会社テックソリューションズ",
+    "text": "2026年3月分 システム開発コンサルティング業務委託",
+    "date": "2026-04-01",
+    "items": [
+      {
+        "description": "システム開発コンサルティング（3月分）",
+        "quantity": 1,
+        "unitPrice": 500000,
+        "taxRate": 0.1
+      },
+      {
+        "description": "クラウドサーバー利用料（3月分）",
+        "quantity": 1,
+        "unitPrice": 80000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 580000,
+    "taxAmount": 58000,
+    "total": 638000
+  },
+  {
+    "id": "INV-2026-0402",
+    "vendor": "(株)テックソリューションズ",
+    "text": "2026年3月分 保守運用サポート",
+    "date": "2026-04-05",
+    "items": [
+      {
+        "description": "システム保守・運用サポート（3月分）",
+        "quantity": 1,
+        "unitPrice": 200000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 200000,
+    "taxAmount": 20000,
+    "total": 220000
+  },
+  {
+    "id": "INV-2026-0403",
+    "vendor": "オフィスマート合同会社",
+    "text": "事務用品発注 2026年3月",
+    "date": "2026-04-03",
+    "items": [
+      {
+        "description": "コピー用紙 A4 5000枚入×10箱",
+        "quantity": 10,
+        "unitPrice": 3500,
+        "taxRate": 0.1
+      },
+      {
+        "description": "文房具セット（ボールペン・付箋・クリアファイル）",
+        "quantity": 20,
+        "unitPrice": 1200,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 59000,
+    "taxAmount": 5900,
+    "total": 64900
+  },
+  {
+    "id": "INV-2026-0404",
+    "vendor": "グローバルマーケティング株式会社",
+    "text": "2026年Q1 デジタル広告運用代行",
+    "date": "2026-04-10",
+    "items": [
+      {
+        "description": "デジタル広告運用代行（Q1）",
+        "quantity": 1,
+        "unitPrice": 1500000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 1500000,
+    "taxAmount": 150000,
+    "total": 1650000
+  },
+  {
+    "id": "INV-2026-0401",
+    "vendor": "株式会社テックソリューションズ",
+    "text": "2026年3月分 システム開発コンサルティング業務委託【再送】",
+    "date": "2026-04-15",
+    "items": [
+      {
+        "description": "システム開発コンサルティング（3月分）",
+        "quantity": 1,
+        "unitPrice": 500000,
+        "taxRate": 0.1
+      },
+      {
+        "description": "クラウドサーバー利用料（3月分）",
+        "quantity": 1,
+        "unitPrice": 80000,
+        "taxRate": 0.1
+      }
+    ],
+    "subtotal": 580000,
+    "taxAmount": 58000,
+    "total": 638000
+  }
+]
