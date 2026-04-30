@@ -1,0 +1,17 @@
+{
+  "name": "journalcraft-prototype",
+  "version": "0.1.0",
+  "description": "JournalCraft — AI仕訳起票アシスタント プロトタイプ",
+  "type": "module",
+  "scripts": {
+    "demo": "npx tsx demo/run.ts",
+    "demo:mock": "JOURNALCRAFT_MOCK=1 npx tsx demo/run.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}
