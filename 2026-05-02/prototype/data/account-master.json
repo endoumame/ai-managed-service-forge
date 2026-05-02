@@ -1,0 +1,62 @@
+[
+  {
+    "code": "5100",
+    "name": "通信費",
+    "category": "expense",
+    "keywords": ["AWS", "GCP", "Azure", "クラウド", "サーバー", "インターネット", "通信"]
+  },
+  {
+    "code": "5200",
+    "name": "消耗品費",
+    "category": "expense",
+    "keywords": ["コピー用紙", "文具", "ボールペン", "トナー", "事務用品"]
+  },
+  {
+    "code": "5300",
+    "name": "外注費",
+    "category": "expense",
+    "keywords": ["開発", "委託", "外注", "業務委託", "コンサルティング"]
+  },
+  {
+    "code": "5400",
+    "name": "支払手数料",
+    "category": "expense",
+    "keywords": ["手数料", "サポート", "保守", "メンテナンス", "月額費用"]
+  },
+  {
+    "code": "5500",
+    "name": "福利厚生費",
+    "category": "expense",
+    "keywords": ["飲料", "ウォーター", "コーヒー", "お茶", "社員", "食事"]
+  },
+  {
+    "code": "5600",
+    "name": "旅費交通費",
+    "category": "expense",
+    "keywords": ["交通", "タクシー", "新幹線", "航空", "宿泊"]
+  },
+  {
+    "code": "5700",
+    "name": "広告宣伝費",
+    "category": "expense",
+    "keywords": ["広告", "Google Ads", "Meta広告", "PR", "マーケティング"]
+  },
+  {
+    "code": "5800",
+    "name": "地代家賃",
+    "category": "expense",
+    "keywords": ["家賃", "賃料", "オフィス", "レンタル"]
+  },
+  {
+    "code": "2100",
+    "name": "買掛金",
+    "category": "liability",
+    "keywords": []
+  },
+  {
+    "code": "2200",
+    "name": "仮払消費税",
+    "category": "asset",
+    "keywords": []
+  }
+]

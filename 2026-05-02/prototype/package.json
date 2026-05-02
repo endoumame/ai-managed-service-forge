@@ -1,0 +1,15 @@
+{
+  "name": "@invoice-forge/prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "npx tsx demo/run.ts",
+    "demo:interactive": "npx tsx demo/run.ts --interactive",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

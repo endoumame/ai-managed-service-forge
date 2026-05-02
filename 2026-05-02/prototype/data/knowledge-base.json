@@ -1,0 +1,37 @@
+{
+  "rules": [
+    {
+      "id": "rule-001",
+      "vendor": "株式会社クラウドテック",
+      "pattern": "AWS利用料",
+      "account": "通信費",
+      "confidence": 0.95,
+      "usageCount": 12,
+      "lastUsed": "2026-03-31",
+      "source": "manual"
+    },
+    {
+      "id": "rule-002",
+      "vendor": "オフィスサプライ合同会社",
+      "pattern": "コピー用紙",
+      "account": "消耗品費",
+      "confidence": 0.9,
+      "usageCount": 6,
+      "lastUsed": "2026-03-15",
+      "source": "learned"
+    }
+  ],
+  "vendorHistory": {
+    "株式会社クラウドテック": {
+      "averageAmount": 200000,
+      "lastInvoiceDate": "2026-03-31",
+      "invoiceCount": 12
+    },
+    "オフィスサプライ合同会社": {
+      "averageAmount": 45000,
+      "lastInvoiceDate": "2026-03-15",
+      "invoiceCount": 6
+    }
+  },
+  "pendingUpdates": []
+}
