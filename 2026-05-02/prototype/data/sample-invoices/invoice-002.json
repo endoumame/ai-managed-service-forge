@@ -1,0 +1,32 @@
+{
+  "invoiceId": "INV-2026-002",
+  "vendor": "オフィスサプライ合同会社",
+  "invoiceDate": "2026-04-25",
+  "dueDate": "2026-05-25",
+  "items": [
+    {
+      "description": "コピー用紙 A4 5000枚",
+      "quantity": 10,
+      "unitPrice": 3500,
+      "amount": 35000,
+      "taxRate": 0.1
+    },
+    {
+      "description": "ボールペン替芯 50本入り",
+      "quantity": 5,
+      "unitPrice": 2000,
+      "amount": 10000,
+      "taxRate": 0.1
+    },
+    {
+      "description": "ミネラルウォーター 2L 6本入",
+      "quantity": 20,
+      "unitPrice": 500,
+      "amount": 10000,
+      "taxRate": 0.08
+    }
+  ],
+  "totalAmount": 59300,
+  "taxAmount": 4300,
+  "notes": ""
+}

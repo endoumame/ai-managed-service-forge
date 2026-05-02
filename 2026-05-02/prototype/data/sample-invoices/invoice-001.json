@@ -1,0 +1,25 @@
+{
+  "invoiceId": "INV-2026-001",
+  "vendor": "株式会社クラウドテック",
+  "invoiceDate": "2026-04-30",
+  "dueDate": "2026-05-31",
+  "items": [
+    {
+      "description": "AWS利用料（4月分）",
+      "quantity": 1,
+      "unitPrice": 150000,
+      "amount": 150000,
+      "taxRate": 0.1
+    },
+    {
+      "description": "技術サポート月額費用",
+      "quantity": 1,
+      "unitPrice": 50000,
+      "amount": 50000,
+      "taxRate": 0.1
+    }
+  ],
+  "totalAmount": 220000,
+  "taxAmount": 20000,
+  "notes": "インボイス番号: T1234567890123"
+}

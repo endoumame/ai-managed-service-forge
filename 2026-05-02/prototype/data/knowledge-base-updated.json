@@ -1,0 +1,55 @@
+{
+  "rules": [
+    {
+      "id": "rule-001",
+      "vendor": "株式会社クラウドテック",
+      "pattern": "AWS利用料",
+      "account": "通信費",
+      "confidence": 0.95,
+      "usageCount": 12,
+      "lastUsed": "2026-03-31",
+      "source": "manual"
+    },
+    {
+      "id": "rule-002",
+      "vendor": "オフィスサプライ合同会社",
+      "pattern": "コピー用紙",
+      "account": "消耗品費",
+      "confidence": 0.9,
+      "usageCount": 6,
+      "lastUsed": "2026-03-15",
+      "source": "learned"
+    },
+    {
+      "account": "外注費",
+      "confidence": 0.85,
+      "id": "rule-003",
+      "lastUsed": "2026-05-02",
+      "pattern": "技術サポート月額費用",
+      "source": "learned",
+      "usageCount": 1,
+      "vendor": "株式会社クラウドテック"
+    }
+  ],
+  "vendorHistory": {
+    "株式会社クラウドテック": {
+      "averageAmount": 264142,
+      "invoiceCount": 14,
+      "lastInvoiceDate": "2026-04-30"
+    },
+    "オフィスサプライ合同会社": {
+      "averageAmount": 47043,
+      "invoiceCount": 7,
+      "lastInvoiceDate": "2026-04-25"
+    }
+  },
+  "pendingUpdates": [
+    {
+      "account": "外注費",
+      "pattern": "技術サポート月額費用",
+      "reason": "新規パターン検出: ユーザーが「外注費」を選択",
+      "timestamp": "2026-05-02T17:37:41.816Z",
+      "vendor": "株式会社クラウドテック"
+    }
+  ]
+}
