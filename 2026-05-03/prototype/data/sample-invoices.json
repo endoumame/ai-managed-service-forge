@@ -1,0 +1,125 @@
+[
+  {
+    "id": "INV-2026-001",
+    "vendor": "株式会社サクラオフィス",
+    "invoiceNumber": "SO-2026-0412",
+    "date": "2026-04-30",
+    "dueDate": "2026-05-31",
+    "items": [
+      {
+        "description": "A4コピー用紙 500枚入×10箱",
+        "quantity": 10,
+        "unitPrice": 3500,
+        "taxRate": 0.1,
+        "amount": 35000
+      },
+      {
+        "description": "トナーカートリッジ ブラック",
+        "quantity": 2,
+        "unitPrice": 8800,
+        "taxRate": 0.1,
+        "amount": 17600
+      }
+    ],
+    "totalAmount": 57860,
+    "taxAmount": 5260,
+    "notes": "月末締め翌月末払い"
+  },
+  {
+    "id": "INV-2026-002",
+    "vendor": "クラウドネット株式会社",
+    "invoiceNumber": "CN-042601",
+    "date": "2026-04-26",
+    "dueDate": "2026-05-26",
+    "items": [
+      {
+        "description": "AWS利用料 2026年4月分",
+        "quantity": 1,
+        "unitPrice": 284000,
+        "taxRate": 0.1,
+        "amount": 284000
+      },
+      {
+        "description": "ドメイン更新料 example.co.jp (年次)",
+        "quantity": 1,
+        "unitPrice": 4500,
+        "taxRate": 0.1,
+        "amount": 4500
+      }
+    ],
+    "totalAmount": 317350,
+    "taxAmount": 28850,
+    "notes": ""
+  },
+  {
+    "id": "INV-2026-003",
+    "vendor": "フレッシュデリカ",
+    "invoiceNumber": "FD-20260430-08",
+    "date": "2026-04-30",
+    "dueDate": "2026-05-15",
+    "items": [
+      {
+        "description": "会議用弁当（幕の内）",
+        "quantity": 15,
+        "unitPrice": 1080,
+        "taxRate": 0.08,
+        "amount": 16200
+      },
+      {
+        "description": "お茶 ペットボトル500ml",
+        "quantity": 20,
+        "unitPrice": 130,
+        "taxRate": 0.08,
+        "amount": 2600
+      }
+    ],
+    "totalAmount": 20304,
+    "taxAmount": 1504,
+    "notes": "4/25 全社会議ケータリング"
+  },
+  {
+    "id": "INV-2026-004",
+    "vendor": "株式会社サクラオフィス",
+    "invoiceNumber": "SO-2026-0412",
+    "date": "2026-04-30",
+    "dueDate": "2026-05-31",
+    "items": [
+      {
+        "description": "A4コピー用紙 500枚入×10箱",
+        "quantity": 10,
+        "unitPrice": 3500,
+        "taxRate": 0.1,
+        "amount": 35000
+      },
+      {
+        "description": "トナーカートリッジ ブラック",
+        "quantity": 2,
+        "unitPrice": 8800,
+        "taxRate": 0.1,
+        "amount": 17600
+      }
+    ],
+    "totalAmount": 57860,
+    "taxAmount": 5260,
+    "notes": "月末締め翌月末払い"
+  },
+  {
+    "id": "INV-2026-005",
+    "vendor": "グローバルコンサルティング合同会社",
+    "invoiceNumber": "GC-2026-Q1-FINAL",
+    "date": "2026-04-28",
+    "dueDate": "2026-06-30",
+    "items": [
+      {
+        "description": "経営戦略コンサルティング 2026年Q1",
+        "quantity": 1,
+        "unitPrice": 3500000,
+        "taxRate": 0.1,
+        "amount": 3500000
+      }
+    ],
+    "totalAmount": 3850000,
+    "taxAmount": 350000,
+    "notes": "契約書 GC-2025-001に基づく四半期請求"
+  }
+]
