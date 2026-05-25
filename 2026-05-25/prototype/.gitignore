@@ -1,0 +1,4 @@
+node_modules/
+dist/
+knowledge/data.json
+package-lock.json
