@@ -1,0 +1,57 @@
+{
+  "purchaseOrders": [
+    {
+      "poId": "PO-2026-101",
+      "vendor": "株式会社テック・サプライズ",
+      "vendorAliases": ["テック・サプライズ", "テックサプライズ"],
+      "items": [
+        {
+          "description": "クラウドサーバー利用料",
+          "unitPrice": 150000,
+          "quantity": 1,
+          "period": "monthly"
+        }
+      ],
+      "totalAmount": 150000,
+      "taxRate": 0.1,
+      "accountCode": "6100",
+      "accountName": "通信費"
+    },
+    {
+      "poId": "PO-2026-102",
+      "vendor": "株式会社オフィスマート",
+      "vendorAliases": ["(株)オフィスマート", "オフィスマート"],
+      "items": [
+        {
+          "description": "事務用品",
+          "unitPrice": null,
+          "quantity": null,
+          "period": "as-needed"
+        }
+      ],
+      "totalAmount": 200000,
+      "taxRate": 0.1,
+      "accountCode": "6300",
+      "accountName": "事務用品費",
+      "notes": "月額上限20万円"
+    },
+    {
+      "poId": "PO-2026-103",
+      "vendor": "フードデリバリー株式会社",
+      "vendorAliases": ["フードデリバリー"],
+      "items": [
+        {
+          "description": "社員食堂ケータリング",
+          "unitPrice": 800,
+          "quantity": 1000,
+          "period": "monthly"
+        }
+      ],
+      "totalAmount": 800000,
+      "taxRate": 0.08,
+      "accountCode": "7200",
+      "accountName": "福利厚生費",
+      "notes": "軽減税率8%適用"
+    }
+  ]
+}
